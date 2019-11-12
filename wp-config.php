@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'light-2019' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'admin' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '2697bfbf2b5e60ace46b659556' );
+define( 'DB_PASSWORD', 'c939830999adea5da13977d0a94093a90395495d70c1976f' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
